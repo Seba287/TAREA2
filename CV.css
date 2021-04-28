@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+}
+h2{
+    color: rgb(234, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: indigo;
+       }
+       p{
+           font-family: Verdana, Geneva, Tahoma, sans-serif;
+           font-weight: bold;
+           font-style: oblique;
+           color: crimson;
+       }
+
+       .destacados{
+           color: darkblue;
+           font-weight: bold;
+       }
+
+       #testimonios{
+
+        width: 300px;
+        height: 508px;
+        text-align: center;
+        background-color: yellowgreen;
+        border: 2px double rgb(233, 13, 13);
+        box-sizing: border-box;
+        
+       }
+
+       #testimonios p{
+           color: royalblue;
+          
+       }
+
+       #testimonios h3{
+           color: rgb(76, 2, 99);
+           font-variant: small-caps;
+       }
